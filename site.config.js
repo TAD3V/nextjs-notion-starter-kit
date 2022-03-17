@@ -1,15 +1,15 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '539961106c8645e4a6f769913b058127',
+  rootNotionPageId: 'f26d02f6b7ac49c0b366f50825d7d267',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Transitive Bullshit',
-  domain: 'transitivebullsh.it',
-  author: 'Travis Fischer',
+  name: 'Soundwave',
+  domain: 'soundwave.sulfuric.studio',
+  author: 'Sulfuric Studio',
 
   // open graph metadata (optional)
   description: 'Example site description',
